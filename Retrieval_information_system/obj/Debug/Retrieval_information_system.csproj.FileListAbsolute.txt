@@ -1,0 +1,8 @@
+C:\Users\irvan\source\repos\BelajarCSharp\Retrieval_information_system\Retrieval_information_system\bin\Debug\Retrieval_information_system.exe.config
+C:\Users\irvan\source\repos\BelajarCSharp\Retrieval_information_system\Retrieval_information_system\bin\Debug\Retrieval_information_system.exe
+C:\Users\irvan\source\repos\BelajarCSharp\Retrieval_information_system\Retrieval_information_system\bin\Debug\Retrieval_information_system.pdb
+C:\Users\irvan\source\repos\BelajarCSharp\Retrieval_information_system\Retrieval_information_system\obj\Debug\Retrieval_information_system.csproj.AssemblyReference.cache
+C:\Users\irvan\source\repos\BelajarCSharp\Retrieval_information_system\Retrieval_information_system\obj\Debug\Retrieval_information_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\irvan\source\repos\BelajarCSharp\Retrieval_information_system\Retrieval_information_system\obj\Debug\Retrieval_information_system.csproj.CoreCompileInputs.cache
+C:\Users\irvan\source\repos\BelajarCSharp\Retrieval_information_system\Retrieval_information_system\obj\Debug\Retrieval_information_system.exe
+C:\Users\irvan\source\repos\BelajarCSharp\Retrieval_information_system\Retrieval_information_system\obj\Debug\Retrieval_information_system.pdb
